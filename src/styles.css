@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+  position: relative;
+  background: #1a406e;
+}
+
+#intro{
+  position: absolute;
+  color: white;
+  justify-content: left;
+  left: 10vw;
+  top: 25vh;
+  width: 40vw;
+  height: 60vh;
+  padding: 1%;
+}
